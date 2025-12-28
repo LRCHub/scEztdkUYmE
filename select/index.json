@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "日々と君",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-28T14:23:56.513245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "日々と君",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_日々と君_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "日々と君 - Hibi To Kimi",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_日々と君_-_Hibi_To_Kimi_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日々と君",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_日々と君_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
